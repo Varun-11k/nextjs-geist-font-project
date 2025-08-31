@@ -1,0 +1,21 @@
+{
+  "name": "Remote Classroom - Rural Education Platform",
+  "short_name": "Remote Classroom",
+  "description": "Low-bandwidth optimized remote learning platform for rural students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/next.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}
